@@ -33,7 +33,8 @@
     "svg": "image/svg/production/ic_crop_square_48px.svg"
   }, {
     "name": "spinner",
-    "svg": "image/svg/production/ic_camera_48px.svg"
+    "svg": "spinner.svg",
+    "root-dir": "./custom-icons/fontawesome/"
   }, {
     "name": "subtitles",
     "svg": "av/svg/production/ic_subtitles_48px.svg"
@@ -88,7 +89,7 @@
     "svg": "tumblr.svg",
     "root-dir": "./custom-icons/fontawesome/"
   }, {
-    "name": "pinterest",
+    "name": "pinterest_",
     "svg": "pinterest.svg",
     "root-dir": "./custom-icons/fontawesome/"
   }, {
